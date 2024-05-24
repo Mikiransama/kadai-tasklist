@@ -16,9 +16,6 @@
             <div id="content">
                 ${param.content}
             </div>
-            <div id="footer">
-                by MIKI KATAOKA.
-            </div>
         </div>
     </body>
 </html>
